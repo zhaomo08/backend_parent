@@ -1,13 +1,18 @@
 package icu.saymeevetime.user.controller;
 
 
-import icu.saymeevetime.backend.common.controller.IdController;
-import icu.saymeevetime.user.entity.OperationUser;
+import icu.saymeevetime.backend.utils.JwtTokenUtil;
+import icu.saymeevetime.backend.vo.BaseResponseVO;
+import icu.saymeevetime.user.entity.dto.UserLoginDTO;
 import icu.saymeevetime.user.service.IOperationUserService;
 import lombok.AllArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import javax.validation.Valid;
+import java.util.HashMap;
 
 /**
  * <p>
@@ -24,20 +29,19 @@ public class OperationUserController {
     private IOperationUserService operationUserService;
 
 
-    @GetMapping("/add")
-    public void add(OperationUser operationUser) {
+    @PostMapping("/login")
+    public BaseResponseVO login(@RequestBody @Valid UserLoginDTO loginDTO) {
 
-        IdController idController = new IdController();
+        Long uid = operationUserService.checkUserLogin(loginDTO.getName(), loginDTO.getPassword());
 
-        OperationUser operationUser1 = new OperationUser();
-        operationUser1.setId(idController.nextId());
-        operationUser1.setName("test");
-        operationUser1.setPassword("2312");
-        operationUser1.setPhone("17629299160");
+        JwtTokenUtil jwtTokenUtil = new JwtTokenUtil();
+        String randomKey = jwtTokenUtil.getRandomKey();
+        String token = jwtTokenUtil.generateToken(String.valueOf(uid), randomKey);
 
-        operationUserService.save(operationUser1);
-
-        operationUserService.list(null).stream().forEach(System.out::println);
+        HashMap<String, String> result = new HashMap<>();
+        result.put("randomkey", randomKey);
+        result.put("token", token);
+        return BaseResponseVO.success(result);
     }
 
 }

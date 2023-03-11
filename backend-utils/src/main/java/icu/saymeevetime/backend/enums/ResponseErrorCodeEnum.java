@@ -1,4 +1,4 @@
-package icu.saymeevetime.backend.common.enums;
+package icu.saymeevetime.backend.enums;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -10,9 +10,15 @@ import java.util.Map;
  */
 
 public enum ResponseErrorCodeEnum {
-    SUCCESS(0, "SUCCESS", "成功"),
-    SYSTEM_ERR(1, "SYSTEM_ERR", "系统异常"),
-    UNKNOWN_ERR(-1, "UNKNOWN_ERR", "未知错误");
+    SUCCESS(10000, "SUCCESS", "成功"),
+    SYSTEM_ERR(9999, "SYSTEM_ERR", "系统异常"),
+
+
+    UNKNOWN_ERR(-1, "UNKNOWN_ERR", "未知错误"),
+    LOGIN_ERR(-2, "LOGIN_ERR", "登录异常"),
+    USER_NOT_EXIST(-3, "USER_NOT_EXIST", "用户不存在"),
+
+    PARAMETER_ERR(10001, "PARAMETER_ERR", "入参错误");
 
 
     private Integer code;

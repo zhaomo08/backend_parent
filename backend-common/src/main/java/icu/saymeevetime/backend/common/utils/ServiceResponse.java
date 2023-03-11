@@ -1,6 +1,6 @@
 package icu.saymeevetime.backend.common.utils;
 
-import icu.saymeevetime.backend.common.enums.ResponseErrorCodeEnum;
+import icu.saymeevetime.backend.enums.ResponseErrorCodeEnum;
 import lombok.Data;
 
 import java.io.Serializable;

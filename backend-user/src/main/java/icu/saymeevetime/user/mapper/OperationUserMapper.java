@@ -13,4 +13,5 @@ import icu.saymeevetime.user.entity.OperationUser;
  */
 public interface OperationUserMapper extends BaseMapper<OperationUser> {
 
+    void checkUserLogin(String name, String password);
 }

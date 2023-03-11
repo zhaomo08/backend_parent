@@ -32,6 +32,9 @@
         <mysql.version>8.0.13</mysql.version>
         <beetl.version>2.9.10</beetl.version>
         <log4j.version>1.2.17</log4j.version>
+        <guava.version>31.1-jre</guava.version>
+        <fastjson.version>1.2.80</fastjson.version>
+        <jjwt.version>0.9.1</jjwt.version>
     </properties>
     <dependencies>
         <dependency>
@@ -60,6 +63,23 @@
 
     <dependencyManagement>
         <dependencies>
+
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${guava.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>${fastjson.version}</version>
+            </dependency>
+            <!-- https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt -->
+            <dependency>
+                <groupId>io.jsonwebtoken</groupId>
+                <artifactId>jjwt</artifactId>
+                <version>${jjwt.version}</version>
+            </dependency>
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
@@ -106,6 +126,7 @@
                 <artifactId>log4j</artifactId>
                 <version>${log4j.version}</version>
             </dependency>
+
 
         </dependencies>
     </dependencyManagement>

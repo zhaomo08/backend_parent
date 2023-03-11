@@ -1,6 +1,5 @@
 package icu.saymeevetime.backend.common;
 
-import icu.saymeevetime.backend.utils.common.vo.BaseResponseVO;
 import org.junit.Test;
 
 /**
@@ -13,7 +12,6 @@ public class UtilsTest {
 
     @Test
     public void test() {
-        BaseResponseVO baseResponseVO = new BaseResponseVO();
-        System.out.println(baseResponseVO.run("hello world"));
+
     }
 }

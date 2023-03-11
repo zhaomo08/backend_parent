@@ -13,4 +13,6 @@ import icu.saymeevetime.user.entity.OperationUser;
  */
 public interface IOperationUserService extends IService<OperationUser> {
 
+    Long checkUserLogin(String name, String password);
+
 }
