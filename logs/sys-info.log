@@ -1,0 +1,140 @@
+17:11:45.472 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:18:20.297 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:19:30.775 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:21:59.667 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:22:37.277 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:47:47.041 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:48:06.972 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:58:08.532 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+17:59:36.278 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+18:01:12.984 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+18:01:28.459 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+18:07:12.315 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+18:16:56.254 [main] INFO  i.s.b.c.BackendCommonApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+18:16:57.445 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-8080"]
+18:16:57.454 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+18:16:57.454 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+18:16:57.460 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+18:16:57.532 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+18:16:57.799 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+18:19:03.787 [main] INFO  i.s.b.c.BackendCommonApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+18:19:04.979 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-8080"]
+18:19:04.988 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+18:19:04.988 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+18:19:04.995 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+18:19:05.071 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+18:19:06.430 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-8080"]
+18:19:06.442 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+18:19:06.476 [main] INFO  i.s.b.c.BackendCommonApplication - [logStarted,59] - Started BackendCommonApplication in 3.735 seconds (JVM running for 4.879)
+18:20:48.690 [http-nio-8080-exec-5] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+19:18:14.883 [main] INFO  i.s.b.c.BackendCommonApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+19:18:16.133 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-8080"]
+19:18:16.141 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+19:18:16.142 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+19:18:16.147 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+19:18:16.248 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+19:18:18.035 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-8080"]
+19:18:18.047 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+19:18:18.066 [main] INFO  i.s.b.c.BackendCommonApplication - [logStarted,59] - Started BackendCommonApplication in 4.441 seconds (JVM running for 5.585)
+19:19:20.133 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+19:19:43.749 [main] INFO  i.s.b.c.BackendCommonApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+19:19:44.914 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-8080"]
+19:19:44.923 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+19:19:44.923 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+19:19:44.929 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+19:19:45.003 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+19:19:45.246 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+19:20:55.850 [main] INFO  i.s.b.c.BackendCommonApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+19:20:57.023 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-8080"]
+19:20:57.032 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+19:20:57.032 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+19:20:57.038 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+19:20:57.112 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+19:20:58.439 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-8080"]
+19:20:58.450 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+19:20:58.464 [main] INFO  i.s.b.c.BackendCommonApplication - [logStarted,59] - Started BackendCommonApplication in 3.627 seconds (JVM running for 4.509)
+19:21:02.860 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+19:21:03.506 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+19:22:27.728 [Thread-13] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+20:29:13.966 [main] INFO  i.s.b.c.BackendCommonApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+20:29:15.160 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-8081"]
+20:29:15.169 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+20:29:15.169 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+20:29:15.175 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+20:29:15.249 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+20:29:16.779 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-8081"]
+20:29:16.791 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+20:29:16.814 [main] INFO  i.s.b.c.BackendCommonApplication - [logStarted,59] - Started BackendCommonApplication in 3.859 seconds (JVM running for 4.707)
+21:57:28.358 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+21:57:29.566 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+21:57:29.574 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+21:57:29.575 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+21:57:29.580 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21:57:29.654 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+21:57:29.784 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+21:57:46.435 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+21:57:47.681 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+21:57:47.689 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+21:57:47.690 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+21:57:47.696 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21:57:47.773 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+21:57:47.924 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+21:58:19.997 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+21:58:21.187 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+21:58:21.196 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+21:58:21.196 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+21:58:21.202 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21:58:21.278 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+21:58:21.400 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+21:58:59.119 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+21:59:00.267 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+21:59:00.275 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+21:59:00.275 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+21:59:00.281 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21:59:00.355 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+21:59:00.496 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+22:00:30.077 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+22:00:31.299 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+22:00:31.308 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+22:00:31.308 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+22:00:31.314 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22:00:31.392 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+22:00:31.505 [main] INFO  o.a.c.c.StandardService - [log,180] - Stopping service [Tomcat]
+22:01:44.662 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+22:01:45.862 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+22:01:45.872 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+22:01:45.872 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+22:01:45.878 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22:01:45.956 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+22:01:46.139 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+22:01:46.378 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+22:01:47.558 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-9001"]
+22:01:47.569 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+22:01:47.585 [main] INFO  i.s.u.BackendUserApplication - [logStarted,59] - Started BackendUserApplication in 3.993 seconds (JVM running for 4.895)
+22:02:03.059 [http-nio-9001-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+22:06:33.316 [Thread-14] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+22:06:41.020 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+22:06:42.241 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+22:06:42.253 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+22:06:42.253 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+22:06:42.260 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22:06:42.340 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+22:06:42.531 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+22:06:42.741 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+22:06:43.912 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-9001"]
+22:06:43.924 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+22:06:43.938 [main] INFO  i.s.u.BackendUserApplication - [logStarted,59] - Started BackendUserApplication in 4.035 seconds (JVM running for 4.951)
+22:06:47.872 [http-nio-9001-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+22:10:14.802 [Thread-14] INFO  c.a.d.p.DruidDataSource - [close,1825] - {dataSource-1} closed
+22:25:02.026 [main] INFO  i.s.u.BackendUserApplication - [logStartupProfileInfo,654] - No active profile set, falling back to default profiles: default
+22:25:03.259 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Initializing ProtocolHandler ["http-nio-9001"]
+22:25:03.269 [main] INFO  o.a.c.c.StandardService - [log,180] - Starting service [Tomcat]
+22:25:03.269 [main] INFO  o.a.c.c.StandardEngine - [log,180] - Starting Servlet Engine: Apache Tomcat/8.5.34
+22:25:03.275 [localhost-startStop-1] INFO  o.a.c.c.AprLifecycleListener - [log,180] - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/mesay/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22:25:03.350 [localhost-startStop-1] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring embedded WebApplicationContext
+22:25:03.545 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - [dataSource,56] - Init DruidDataSource
+22:25:03.803 [main] INFO  c.a.d.p.DruidDataSource - [init,930] - {dataSource-1} inited
+22:25:05.140 [main] INFO  o.a.c.h.Http11NioProtocol - [log,180] - Starting ProtocolHandler ["http-nio-9001"]
+22:25:05.154 [main] INFO  o.a.t.u.n.NioSelectorPool - [log,180] - Using a shared selector for servlet write/read
+22:25:05.174 [main] INFO  i.s.u.BackendUserApplication - [logStarted,59] - Started BackendUserApplication in 4.415 seconds (JVM running for 5.554)
+22:25:08.564 [http-nio-9001-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,180] - Initializing Spring FrameworkServlet 'dispatcherServlet'
