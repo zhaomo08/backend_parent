@@ -16,6 +16,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+logs
 /.mvn
 *.iws
 *.iml
